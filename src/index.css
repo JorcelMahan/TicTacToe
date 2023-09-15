@@ -1,0 +1,15 @@
+.board-row {
+  clear: both;
+  content: '';
+  display: table;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+}
+
+.winning {
+  background-color: red;
+}
